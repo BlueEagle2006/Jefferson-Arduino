@@ -18,3 +18,5 @@ So I made a new one using a setup as simple as shown bellow, with an LCD Shield 
 <img src="https://user-images.githubusercontent.com/68196837/225094395-c5e924c3-e2f2-472b-acbc-645ef4348541.png" height="300"></img>
 <img src="https://user-images.githubusercontent.com/68196837/225094552-e6e487f6-01d9-4b4c-8357-1f4deaedc918.png" height="300"></img>
 > Final Device Setup
+
+* I added the project report pdf alongside the code.
