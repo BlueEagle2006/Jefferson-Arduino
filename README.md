@@ -1,5 +1,5 @@
 # Jefferson Encryption Device
-This project is the first project where I used C++ to program an Arduino Uno. It is basically a device that can encrypt and decrypt given string values using a cypher which is named after Thomas Jefferson. This cypher works by having more than one disks which have the alphabet on them. But the order of the letters in the alphabet are basically shuffled so every disk has a different order of letters (like below).
+This project is the first project where I used C++ to program an Arduino Uno. It is basically a device that can encrypt and decrypt given string values using a cypher which is named after Thomas Jefferson. This cypher works by having more than one disks which have the alphabet on them. But the order of the letters in the alphabet are basically shuffled so every disk has a different order of letters (shown below).
 
 <img src="https://user-images.githubusercontent.com/68196837/225085024-6f230348-49fe-439e-91e8-eb58a95efa20.png" width="500"></img>
 
@@ -13,7 +13,7 @@ Actually there are two devices that I created to do the exact same process. The 
 <img src="https://user-images.githubusercontent.com/68196837/225093527-37bd92cb-d20a-4f4a-af90-a0bf36a67360.png" height="250"></img>
 > First Prototype
 
-So I made a new one using a setup as simple as shown bellow, with an LCD Shield which had plenty of buttuns on it so I could finally edit the input text.
+So I made a new one using a setup as simple as shown bellow, with an LCD Shield which had plenty of buttons on it so I could finally edit the input text.
 
 <img src="https://user-images.githubusercontent.com/68196837/225094395-c5e924c3-e2f2-472b-acbc-645ef4348541.png" height="300"></img>
 <img src="https://user-images.githubusercontent.com/68196837/225094552-e6e487f6-01d9-4b4c-8357-1f4deaedc918.png" height="300"></img>
