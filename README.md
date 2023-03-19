@@ -1,4 +1,4 @@
-# Jefferson Cryptography Device
+# Jefferson Encryption Device
 This project is the first project where I used C++ to program an Arduino Uno. It is basically a device that can encrypt and decrypt given string values using a cypher which is named after Thomas Jefferson. This cypher works by having more than one disks which have the alphabet on them. But the order of the letters in the alphabet are basically shuffled so every disk has a different order of letters (like below).
 
 <img src="https://user-images.githubusercontent.com/68196837/225085024-6f230348-49fe-439e-91e8-eb58a95efa20.png" width="500"></img>
